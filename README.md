@@ -2,6 +2,12 @@
 
 This project aims to develop a machine learning model to predict the likelihood of heart disease in patients using the Scikit-Learn library. The model utilizes various health metrics and patient data to provide insights and predictions.
 
+## GUI
+
+Below is a screenshot of the graphical user interface (GUI):
+
+![GUI Screenshot](images/gui.png)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
