@@ -8,11 +8,6 @@ This project aims to develop a machine learning model to predict the likelihood 
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Evaluation](#model-evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
