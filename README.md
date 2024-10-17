@@ -6,7 +6,7 @@ This project aims to develop a machine learning model to predict the likelihood 
 
 Below is a screenshot of the graphical user interface (GUI):
 
-![GUI Screenshot](images/Project GUI.png)
+![Project GUI](https://github.com/user-attachments/assets/667dc14b-b8a2-4a82-a17e-50ed512e967f)
 
 ## Table of Contents
 
