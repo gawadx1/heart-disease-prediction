@@ -25,6 +25,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection a
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Dataset
