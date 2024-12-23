@@ -54,7 +54,7 @@ To run this project, ensure you have Python installed on your machine. You can c
 
 ```bash
 # Clone the repository
-git clone https://github.com/abdullah-abdalgawwad/Heart-Disease-Prediction.git
+git clone https://github.com/gawadx1/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
 
 # Create a virtual environment (optional)
